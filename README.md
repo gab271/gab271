@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gabriel
 
-### Desarrollador Full Stack | Apasionado por crear soluciones innovadoras
+### Desarrollador Web
 
 ![GitHub followers](https://img.shields.io/github/followers/gab271?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/gab271?style=social)
